@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" widht="150px" />
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="150px" />
 </div>
 
 <br />
@@ -15,14 +15,13 @@
 
 ## :rocket: Built with
 
-<details>
-    <summary>Technologies</summary>
-        * [Node.js](https://nodejs.org/)
-        * [Express](https://expressjs.com/)
-        * [Docker](https://www.docker.com/)
-        * [docker-compose](https://github.com/docker/compose/)
-        * [VS Code](https://code.visualstudio.com/)
-</details>
+### Technologies
+* [Node.js](https://nodejs.org/)
+* [Express](https://expressjs.com/)
+* [Docker](https://www.docker.com/)
+* [docker-compose](https://github.com/docker/compose/)
+* [VS Code](https://code.visualstudio.com/)
+
 
 ## :information_source: How to run
 
