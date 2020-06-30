@@ -18,6 +18,7 @@
 ### Technologies
 * [Node.js](https://nodejs.org/)
 * [Express](https://expressjs.com/)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
 * [Docker](https://www.docker.com/)
 * [docker-compose](https://github.com/docker/compose/)
 * [VS Code](https://code.visualstudio.com/)
