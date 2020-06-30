@@ -20,7 +20,9 @@
 * [Express](https://expressjs.com/)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 * [Docker](https://www.docker.com/)
-* [docker-compose](https://github.com/docker/compose/)
+* [docker-compose](https://docs.docker.com/compose/)
+* [docker-machine](https://docs.docker.com/machine/)
+* [Traefik](https://docs.traefik.io/)
 * [VS Code](https://code.visualstudio.com/)
 
 
@@ -31,7 +33,8 @@
 To run the application you will need:
 * [Git](https://git-scm.com)
 * [Docker](https://www.docker.com/)
-* [docker-compose](https://github.com/docker/compose/)
+* [docker-compose](https://docs.docker.com/compose/)
+* [docker-machine](https://docs.docker.com/machine/)
 
 Clone the repository and put to run with docker-compose.
 ```bash
