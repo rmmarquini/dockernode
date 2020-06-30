@@ -42,7 +42,7 @@ $ git clone https://github.com/rmmarquini/dockernode.git
 $ cd dockernode
 
 # execute docker-compose file
-$ docker-compose up
+$ docker-compose up -d
 
 ```
 
